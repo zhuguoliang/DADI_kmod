@@ -1,4 +1,4 @@
-# hyperblock_kmod
+# DADI_kmod
 ---
 This repository contains the kernel modules that brings lsmt files to loop devices. By mounting the modified loop device, data in lsmt files can be read.
 
